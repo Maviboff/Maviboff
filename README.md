@@ -8,4 +8,4 @@ meu nome é Maria
 
 boff.maria@escola.pr.gov.br 📧
 
-[@maviboff](https://www.instagram.com/maviboff/) 📷
+@maviboff 📷
