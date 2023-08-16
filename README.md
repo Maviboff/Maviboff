@@ -4,6 +4,7 @@ meu nome é Maria
 - estou no Alura
 - iniciando na linguagem JavaScript
 
-### Você pode entrar em contato comigo 📧
+### Você pode entrar em contato comigo 
 
-@boff.maria@escola.pr.gov.br
+boff.maria@escola.pr.gov.br 📧
+@maviboff 📷
