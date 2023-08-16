@@ -7,4 +7,5 @@ meu nome é Maria
 ### Você pode entrar em contato comigo 
 
 boff.maria@escola.pr.gov.br 📧
-@maviboff 📷
+
+[@maviboff](https://www.instagram.com/maviboff/) 📷
