@@ -1,7 +1,7 @@
 ### Boas vindas ao meu perfil 🫀
 
 meu nome é Maria 
-- estou no [Alura] (https://www.alura.com.br/)
+- estou no [Alura](https://www.alura.com.br/)
 - iniciando na linguagem JavaScript
 
 ### Você pode entrar em contato comigo 
